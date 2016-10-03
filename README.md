@@ -15,6 +15,7 @@ accounts for shifts in overall intensity by scaling all pixels according to the 
 intensity of each frame.
 
 To install the plugin, follow these steps:
+
 1. Download the JAVA file
 2. Open ImageJ
 3. Open the stack file
